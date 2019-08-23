@@ -1,0 +1,16 @@
+body {
+  font-family: "Benton Sans", "Helvetica Neue", helvetica, arial, sans-serif;
+  margin: 2em;
+}
+
+h1 {
+  font-style: italic;
+  color: #373fff;
+}
+.RPS{
+   background-image: url("https://www.sciencemag.org/sites/default/files/styles/article_main_large/public/images/sn-rockpaper.jpg?itok=4WUMt1oc");
+      background-repeat: no-repeat;
+  width: 100%;
+/*   height:auto; */
+  background-attachment: fixed;
+}
